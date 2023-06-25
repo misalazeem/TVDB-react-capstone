@@ -140,7 +140,7 @@ Example command:
 
 ### Deployment
 
-- Coming Soon
+- <a href="https://project-implementation--reliable-syrniki-0932c4.netlify.app/">Click Here for live demo </a>
 
 ## 🚀 Zoom Video (explanation) <a name="zoom"></a>
 
