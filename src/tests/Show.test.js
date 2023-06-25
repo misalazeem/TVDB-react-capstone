@@ -15,8 +15,8 @@ test('renders Show component', () => {
   const { container } = render(
     <Router>
       <Show Show={show} backgroundColor={backgroundColor} />
-    </Router>
+    </Router>,
   );
-  
+
   expect(container.innerHTML).toMatchSnapshot();
 });

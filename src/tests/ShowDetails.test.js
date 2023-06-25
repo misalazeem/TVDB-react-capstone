@@ -34,7 +34,7 @@ test('renders ShowDetail component', () => {
       <Router>
         <ShowDetail />
       </Router>
-    </Provider>
+    </Provider>,
   );
 
   expect(container.innerHTML).toMatchSnapshot();
