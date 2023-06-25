@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+@font-face {
+  font-family: 'CustomFont';
+  src: url('./fonts/Gill\ Sans.otf') format('opentype');
+}
+
+body {
+  margin: 0;
+  background-color: #4369b2;
+  font-family: 'CustomFont', sans-serif;
+  overflow: hidden;
+}
