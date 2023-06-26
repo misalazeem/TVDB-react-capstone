@@ -144,7 +144,7 @@ Example command:
 
 ## 🚀 Zoom Video (explanation) <a name="zoom"></a>
 
-Coming Soon
+- <a href="https://www.loom.com/share/95d1cdbd8b1041e98ec0350c33b7b958">Click here for Demo Video</a>
 
 <!--
 Example:
